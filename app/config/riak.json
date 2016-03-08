@@ -1,0 +1,4 @@
+{
+  "hosts": "riaknode-1.example.net,riaknode-2.example.net",
+  "mcollective":"enabled"
+}
